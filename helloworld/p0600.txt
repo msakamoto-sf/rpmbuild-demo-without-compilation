@@ -1,0 +1,1 @@
+regulat 0600 file.
