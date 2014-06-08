@@ -7,3 +7,11 @@ RPM build demonstration without compiling source code, only use checkouted sourc
 
 日本語解説記事 : http://www.glamenv-septzen.net/view/1295
 
+環境：
+```
+CentOS 6.5 x86_64版
+$ rpm --version
+RPM version 4.8.0
+$ rpmbuild --version
+RPM version 4.8.0
+```
